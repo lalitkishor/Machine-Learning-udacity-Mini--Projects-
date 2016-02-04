@@ -1,2 +1,2 @@
-Machne learning lesson 1 Mini-Projects:
-find a accuracy
+lesson 8 mini project
+please carefully read commant  in front of for loop
